@@ -1,0 +1,9 @@
+C:\Users\Jasmin\Documents\Webbprogrammerare\Steg1\1DV402.S1.L02B\1DV402.S1.L02B\bin\Debug\1DV402.S1.L02B.exe.config
+C:\Users\Jasmin\Documents\Webbprogrammerare\Steg1\1DV402.S1.L02B\1DV402.S1.L02B\bin\Debug\1DV402.S1.L02B.exe
+C:\Users\Jasmin\Documents\Webbprogrammerare\Steg1\1DV402.S1.L02B\1DV402.S1.L02B\bin\Debug\1DV402.S1.L02B.pdb
+C:\Users\Jasmin\Documents\Webbprogrammerare\Steg1\1DV402.S1.L02B\1DV402.S1.L02B\obj\Debug\1DV402.S1.L02B.csprojResolveAssemblyReference.cache
+C:\Users\Jasmin\Documents\Webbprogrammerare\Steg1\1DV402.S1.L02B\1DV402.S1.L02B\obj\Debug\1DV402.S1.L02B.exe
+C:\Users\Jasmin\Documents\Webbprogrammerare\Steg1\1DV402.S1.L02B\1DV402.S1.L02B\obj\Debug\1DV402.S1.L02B.pdb
+C:\Users\Jasmin\Documents\Webbprogrammerare\Steg1\1dv402-jb223cp-1-2-rita-med-asterisker\1DV402.S1.L02B\1DV402.S1.L02B\bin\Debug\1DV402.S1.L02B.exe.config
+C:\Users\Jasmin\Documents\Webbprogrammerare\Steg1\1dv402-jb223cp-1-2-rita-med-asterisker\1DV402.S1.L02B\1DV402.S1.L02B\obj\Debug\1DV402.S1.L02B.exe
+C:\Users\Jasmin\Documents\Webbprogrammerare\Steg1\1dv402-jb223cp-1-2-rita-med-asterisker\1DV402.S1.L02B\1DV402.S1.L02B\obj\Debug\1DV402.S1.L02B.pdb
